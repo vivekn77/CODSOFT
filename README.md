@@ -8,6 +8,11 @@ LANDING PAGE
 
 In this task i make the Landing Page of Codsoft page itself in an Newer version and this page is also resposive also.
 
+#### TASK - 2
+Personal Portfolio
+
+In This task i make my own Portfoilo with use of HTML,CSS language.
+
 
 
 #### TASK -3
